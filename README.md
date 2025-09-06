@@ -5,8 +5,8 @@ The process involved:
 •	Data cleaning and transformation
 •	Data modeling
 •	Designing insightful dashboards with filters, slicers, and visuals
-________________________________________
-✅ Key Features & Insights
+
+✅ Key Features & Insights:
 The dashboard answers critical HR questions, including:
 •Headcount by Job Role: Distribution of employees across various job positions
 •	Gender Breakdown: Gender diversity across departments and roles
@@ -14,14 +14,14 @@ The dashboard answers critical HR questions, including:
 •Top Earners: Identification of the highest-paid individuals in the organization
 •Leave Balance Analysis: Overview of leave usage and remaining balances
 •Staff Growth Trends: Monthly/Yearly trends in staff recruitment and attrition
-________________________________________
- Tools & Technologies Used
+
+ Tools & Technologies Used:
 •	Power BI: Dashboard development, DAX calculations, and visual design
 •	Power Query: Data cleaning and transformation
 •	DAX (Data Analysis Expressions): Custom calculations and measures
 •	Excel/CSV: Source data files
-________________________________________
- File Structure
+
+ File Structure:
 HR-Analytics-Dashboard/
 │
 ├── Dataset/
@@ -30,14 +30,14 @@ HR-Analytics-Dashboard/
 ├── PowerBI/
 │   └── HR_Analytics.pbix
 
-How to Use
+How to Use:
 1.	Download or clone this repository.
 2.	Open the HR_Analytics.pbix file in Power BI Desktop.
 3.	If needed, update the data source path to match your local directory.
 4.	Explore the dashboards using filters and slicers for deeper insights.
 
 
-Use Cases
+Use Cases:
 •	HR performance reporting
 •	Executive-level decision support
 •	Diversity and inclusion tracking
